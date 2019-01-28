@@ -9,6 +9,7 @@
 ## 补充资源
 - C++Primer第五版 链接:https://pan.baidu.com/s/1oZtvyCFpLhmXSkKPcueQkA  密码:su8s
 - C++标准库 第2版 链接:https://pan.baidu.com/s/1ERv7KeWBlLxnmq9yNBtTag  密码:5etu
+- Linux多线程服务端编程  使用muduo C++网络库 PDF电子书下载 带目录书签 完整版.pdf 链接:https://pan.baidu.com/s/1QQlC-lRWGAN0knbQoA1QYw  密码:zaq7
 - Go程序设计语言.Alan Donovan,_ Brian W.Kernighan[著].李道兵[译].机械工业出版社.2017.05.pdf.pdf 链接:https://pan.baidu.com/s/1BDG6MBsEzAH-Xc8pWHUgSQ  密码:yjne
 
 # Tips
